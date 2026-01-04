@@ -9,7 +9,6 @@ class quiz:
         self.score = 0
         self.total = len(self.questions)
 
-        # Windows Speech Engine
         self.speaker = win32com.client.Dispatch("SAPI.SpVoice")
 
     def speak(self, text):
@@ -67,3 +66,4 @@ class quiz:
 quiz_1 = quiz(r"C:\Users\archit\Downloads\quiz_questions_10.csv")
 quiz_1.start_quiz()
 quiz_1.show_result()
+
