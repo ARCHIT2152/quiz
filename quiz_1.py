@@ -63,7 +63,8 @@ class quiz:
             print("Grade C")
 
 
-quiz_1 = quiz(r"C:\Users\archit\Downloads\quiz_questions_10.csv")
+quiz_1 = quiz("quiz_questions_10.csv")
 quiz_1.start_quiz()
 quiz_1.show_result()
+
 
