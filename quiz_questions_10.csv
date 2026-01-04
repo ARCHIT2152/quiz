@@ -1,0 +1,11 @@
+question,optionA,optionB,optionC,optionD,answer
+What is Python?,Programming Language,Snake,Operating System,Browser,A
+Which library is used for numerical computation in Python?,NumPy,Pandas,Matplotlib,TensorFlow,A
+Which library is used for data analysis in Python?,Pandas,NumPy,Seaborn,Scikit-learn,A
+What does OOP stand for?,Object Oriented Programming,Open Object Protocol,Object Operation Process,Only Object Programming,A
+Which keyword is used to define a function in Python?,def,func,function,define,A
+Which file format is used to store tabular data in this project?,CSV,PDF,DOCX,TXT,A
+What is Pandas DataFrame?,Two dimensional data structure,One dimensional data structure,Three dimensional data structure,No fixed structure,A
+Which loop is commonly used to iterate over a range of values?,for,while,do while,repeat,A
+What does CSV stand for?,Comma Separated Values,Character Separated Values,Common Separated Values,Comma Special Values,A
+Which Windows library is used here for text to speech?,win32com.client,pyttsx3,speech_recognition,gTTS,A
